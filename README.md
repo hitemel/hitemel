@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hitemel
-- 👀 I’m interested in finance bots. If I automate and make them run without any superv,s,on. I'll be happy. 
+- 👀 I’m interested in finance bots. If I automate and make them run without any supervision. I'll be happy. 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
